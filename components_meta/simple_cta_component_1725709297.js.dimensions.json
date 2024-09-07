@@ -1,0 +1,18 @@
+{
+    "id": "simple_cta_component-82699998-63dc-75a4-c70f-7893f7d37c9a",
+    "name": "simple_cta_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
