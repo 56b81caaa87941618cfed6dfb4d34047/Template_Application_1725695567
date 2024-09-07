@@ -1,0 +1,18 @@
+{
+    "id": "dark_footer_component-a285e9a4-e6d0-977f-9c05-e82c0ebdbdbc",
+    "name": "dark_footer_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 0.9333333333333333,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
