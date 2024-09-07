@@ -3,10 +3,10 @@
         <div class="relative z-10 max-w-screen-xl mx-auto px-4 md:px-8">
             <div class="max-w-xl sm:text-center md:mx-auto flex items-center flex-col">
                 <h3 class="text-center text-3xl text-white font-semibold sm:text-4xl">
-                    TESTIMONIAL_SECTION_TITLE_PLACEHOLDER_TEXT
+                    What Our Users Are Saying
                 </h3>
                 <p class="mt-3 text-center text-white">
-                    TESTIMONIAL_SECTION_SUBTITLE_PLACEHOLDER_TEXT
+                    Discover why people love our app
                 </p>
             </div>
             <div class="mt-12">
@@ -19,7 +19,7 @@
                         <figure>
                             <blockquote>
                                 <p class="text-gray-800 text-lg font-semibold px-4 py-1">
-                                    TESTIMONIAL_1_PLACEHOLDER_TEXT
+                                    This app has completely transformed the way I work. It's intuitive, efficient, and a real game-changer!
                                 </p>
                             </blockquote>
                             <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
@@ -27,10 +27,10 @@
                                      class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                 <div>
                                     <span class="block text-gray-800 font-semibold">
-                                        TESTIMONIAL_GIVER_1_PLACEHOLDER_TEXT
+                                        Sarah Johnson
                                     </span>
                                     <span class="max-w-full block text-indigo-600 text-xs mt-0.5">
-                                        TESTIMONIAL_GIVER_1_DESCRIPTION_PLACEHOLDER_TEXT
+                                        Marketing Professional
                                     </span>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@
                         <figure>
                             <blockquote>
                                 <p class="text-gray-800 text-lg font-semibold px-4 py-1">
-                                    TESTIMONIAL_2_PLACEHOLDER_TEXT
+                                    I've tried many similar apps, but this one stands out. It's user-friendly and packed with features I didn't even know I needed.
                                 </p>
                             </blockquote>
                             <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
@@ -52,10 +52,10 @@
                                      class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                 <div>
                                     <span class="block text-gray-800 font-semibold">
-                                        TESTIMONIAL_GIVER_2_PLACEHOLDER_TEXT
+                                        Michael Chen
                                     </span>
                                     <span class="max-w-full block text-indigo-600 text-xs mt-0.5">
-                                        TESTIMONIAL_GIVER_2_DESCRIPTION_PLACEHOLDER_TEXT
+                                        Software Engineer
                                     </span>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@
                         <figure>
                             <blockquote>
                                 <p class="text-gray-800 text-lg font-semibold px-4 py-1">
-                                    TESTIMONIAL_3_PLACEHOLDER_TEXT
+                                    The customer support is exceptional. They're always ready to help and truly care about user experience.
                                 </p>
                             </blockquote>
                             <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
@@ -77,10 +77,10 @@
                                      class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                 <div>
                                     <span class="block text-gray-800 font-semibold">
-                                        TESTIMONIAL_GIVER_3_PLACEHOLDER_TEXT
+                                        Emily Rodriguez
                                     </span>
                                     <span class="max-w-full block text-indigo-600 text-xs mt-0.5">
-                                        TESTIMONIAL_GIVER_3_DESCRIPTION_PLACEHOLDER_TEXT
+                                        Small Business Owner
                                     </span>
                                 </div>
                             </div>
