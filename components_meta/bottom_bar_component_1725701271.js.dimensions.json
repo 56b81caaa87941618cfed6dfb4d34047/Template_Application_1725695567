@@ -1,0 +1,18 @@
+{
+    "id": "bottom_bar_component-beca934d-1482-ed6a-851d-85cc70b2df95",
+    "name": "bottom_bar_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 1,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
