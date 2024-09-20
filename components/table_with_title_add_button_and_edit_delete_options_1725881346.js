@@ -66,9 +66,12 @@ export default {
     },
   },
   mounted() {
-    this.fetch_data_from_database(this.SQL_statement).then(([tableHeaders, tableItems]) => {
-      this.tableHeaders = tableHeaders;
-      this.tableItems = tableItems;
+    this.fetch_data_from_database(this.SQL_statement).then(result => {
+      if (result) {
+        const [tableHeaders, tableItems] = result;
+        this.tableHeaders = tableHeaders;
+        this.tableItems = tableItems;
+      }
     });
   },
 };
