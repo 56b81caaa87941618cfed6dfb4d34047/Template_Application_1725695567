@@ -1,9 +1,8 @@
-<!--
-INSTRUCTION: To add this component to the user's app, you must follow these steps:
-INSTRUCTION: - You are given the correct SQL statement -- replace the `PLACEHOLDER_SQL_STATEMENT` variable in this file with the actual SQL statement.
--->
-
 <template>
+  <!--
+  INSTRUCTION: To add this component to the user's app, you must follow these steps:
+  INSTRUCTION: - You are given the correct SQL statement -- replace the `PLACEHOLDER_SQL_STATEMENT` variable in this file with the actual SQL statement.
+  -->
   <div class="max-w-screen-xl mx-auto px-4 md:px-8">
     <div class="items-start justify-between md:flex">
       <div class="max-w-lg">
