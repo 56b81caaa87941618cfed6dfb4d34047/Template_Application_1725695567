@@ -47,7 +47,7 @@ export default {
     return {
       tableItems: [],
       tableHeaders: [],
-      SQL_statement: PLACEHOLDER_SQL_STATEMENT,
+      SQL_statement: "PLACEHOLDER_SQL_STATEMENT",
     };
   },
   methods: {
