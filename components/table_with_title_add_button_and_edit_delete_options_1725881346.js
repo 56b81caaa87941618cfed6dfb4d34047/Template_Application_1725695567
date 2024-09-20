@@ -19,7 +19,7 @@ INSTRUCTION: - You are given the correct SQL statement -- replace the `PLACEHOLD
       <table class="w-full table-auto text-sm text-left" style="background-color: white;">
         <thead class="bg-gray-50 text-gray-600 font-medium border-b">
           <tr>
-            <th v-for="header in tableHeaders" :key="header" class="py-3 px-6" v-html="header"></th>
+            <th v-for="header in tableHeaders" :key="header" class="py-3 px-6">{{ header }}</th>
           </tr>
         </thead>
         <tbody class="text-gray-600 divide-y">
@@ -30,7 +30,7 @@ INSTRUCTION: - You are given the correct SQL statement -- replace the `PLACEHOLD
               v-if="tableHeaders.includes(key)"
               class="py-3 px-6 whitespace-nowrap"
             >
-              <span v-html="value"></span>
+              {{ value }}
             </td>
           </tr>
         </tbody>
